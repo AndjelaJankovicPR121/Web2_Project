@@ -1,4 +1,0 @@
-INSERT INTO Sellers.dbo.Product (Name, Price, IngredientsDescription, CreatedAt, UpdatedAt) VALUES (N'Pizza', 120.00, N'Tomato, ham', N'2022-07-13 18:46:31.3868020', N'2022-07-13 18:46:31.3868030');
-INSERT INTO Sellers.dbo.Product (Name, Price, IngredientsDescription, CreatedAt, UpdatedAt) VALUES (N'Burger', 200.00, N'Patty, bread', N'2022-07-13 18:46:48.6875950', N'2022-07-13 18:46:48.6875950');
-INSERT INTO Sellers.dbo.Product (Name, Price, IngredientsDescription, CreatedAt, UpdatedAt) VALUES (N'Burger Large', 250.00, N'Patty, bacon, bread', N'2022-07-13 18:47:03.4741620', N'2022-07-13 18:47:03.4741620');
-INSERT INTO Sellers.dbo.Product (Name, Price, IngredientsDescription, CreatedAt, UpdatedAt) VALUES (N'Pizza Large', 1000.00, N'ham, ketchup', N'2022-07-15 17:38:51.6692740', N'2022-07-15 17:38:51.6692750');

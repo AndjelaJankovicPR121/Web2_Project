@@ -1,0 +1,24 @@
+.ordercard-container {
+  display: flex;
+  flex-direction: row;
+  margin:10px 5px;
+  width: 100%;
+  padding: 10px 0;
+  justify-content: space-between;
+  align-items: center;
+
+  p {
+    padding: 0 20px;
+  }
+  .ordercard-description {
+    width: 33%;
+  }
+}
+.neworders-container {
+  display: flex;
+  flex-direction: column;
+
+  .deliver-order {
+    margin: 20px 0;
+  }
+}
